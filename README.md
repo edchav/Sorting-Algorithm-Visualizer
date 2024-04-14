@@ -4,15 +4,15 @@ This project implements a comparison visualizer for several sorting algorithms u
 
 # Prerequisites
 
-*Python version 3.11.5 | packaged by Anaconda Inc*
-*Matplotlib version 3.7.2* 
+*Python version 3.11.5 | packaged by Anaconda Inc
+*Matplotlib version 3.7.2
 
 # Run the program
 
-*Start the application after downloading or cloning repo*
-*Select number of algorithms*
-*Enter array size*
-*Click sort button*
+*Start the application after downloading or cloning repo
+*Select number of algorithms
+*Enter array size
+*Click sort button
 
 # Files
 
